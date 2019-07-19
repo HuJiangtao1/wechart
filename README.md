@@ -1,0 +1,2 @@
+# wechart
+we chart xaingmu
